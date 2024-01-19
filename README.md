@@ -1,2 +1,0 @@
-# testenovo
-website da loja
